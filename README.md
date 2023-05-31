@@ -44,8 +44,7 @@ class NodeTree(object):
         self.right=right
     def children(self):
         return (self.left,self.right)
-    def __str__(self):
-        return '%s %s' %(self.left,self.right)
+
         
 # Create tree nodes
 def huffman_code_tree (node, left=True, binString=''):
@@ -87,7 +86,7 @@ for (char, frequency) in freq:
 ## Output:
 
 ### Print the characters and its huffmancode
-![image](https://github.com/lathika-sunder/Huffman-Coding/assets/95066409/77eaff59-2631-4131-bba7-871e1a2e2204)
+![image](https://github.com/lathika-sunder/Huffman-Coding/assets/95066409/0b8332ca-eb02-4829-95b6-e3c04109d3fe)
 
 
 
