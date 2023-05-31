@@ -28,9 +28,11 @@ Print the characters and its huffmancode.
 
 ## Program:
 
-*Developed by: Lathika Sunder
+```
+    Developed by: Lathika Sunder
 <br>
-Register Number: 212221230054 *
+Register Number: 212221230054 
+    ```
 
 
 ``` Python
